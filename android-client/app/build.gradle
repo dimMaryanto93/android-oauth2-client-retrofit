@@ -1,10 +1,5 @@
 apply plugin: 'com.android.application'
 
-  
-plugins {
-    id "org.sonarqube" version "2.6"
-}
-
 android {
     compileSdkVersion 28
     defaultConfig {
