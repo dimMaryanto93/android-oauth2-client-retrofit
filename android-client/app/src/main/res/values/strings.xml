@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">AuthOauth2ClientMobile</string>
+    <string name="token">SecretToken</string>
 </resources>
